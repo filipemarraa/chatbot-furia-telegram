@@ -19,13 +19,23 @@ Criar um bot interativo, leve e divertido para o Telegram que represente a **Pan
 ## 📸 Exemplos do Bot em ação
 
 ### Boas-vindas /start
-![Screenshot do comando /start](pubic/image1.png)
+![Screenshot do comando /start](public/image1.png)
 
 ### Comando /jogos
-![Screenshot do comando /jogos](docs/jogos.png)
+![Screenshot do comando /jogos](public/image2.png)
 
 ### Resposta da IA
-![Screenshot da IA da Pantera](docs/perguntar.png)
+![Screenshot da IA da Pantera](public/image5.png)
+
+### Comando /resultados
+![Screenshot da IA da Pantera](public/image3.png)
+
+### Comando /lineup
+![Screenshot da IA da Pantera](public/image4.png)
+
+### Bot no telegram
+![Screenshot da IA da Pantera](public/image6.png)
+
 
 ---
 
