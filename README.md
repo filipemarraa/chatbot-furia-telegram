@@ -131,7 +131,7 @@ AQUI É FURIA! 🔥🔥🔥”
 ## 👤 Desenvolvido por
 
 **Filipe Marra**  
-🐾 Desenvolvedor do [FURIA Fan Hub](https://github.com/filipemarraa/furia_fanhub)  
+🐾 Desenvolvedor do [FURIA Fan Hub](https://github.com/filipemarraa/furia-fanhub)  
 💻 GitHub: [@filipemarraa](https://github.com/filipemarraa)
 
 ---
